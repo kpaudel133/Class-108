@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color:rgb(138, 206, 206);
+    font-style: italic;
+}
+
+button{
+    font-size: 20px !important;
+    width: 100px;
+    height: 60px;
+    border-radius: 3px;
+    border-width: 2px;
+}
+
+.copy_right{
+    font-size: 25px;
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    background: plum;
+    line-height: 70px;
+    text-shadow: 5px 5px 2px grey;
+}
+
+p{
+    font-size: 18px;
+}
+
+h2{
+    color:mediumslateblue;
+    font-size: 40px;
+}
